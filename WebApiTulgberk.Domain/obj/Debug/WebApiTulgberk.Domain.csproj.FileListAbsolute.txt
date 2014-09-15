@@ -1,0 +1,26 @@
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.dll.config
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.Init.resources
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.csproj.GenerateResource.Cache
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.AddValidationAttrOnUser.resources
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.ShippingRelatedTablesAdded.resources
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.dll.config
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.Init.resources
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.AddValidationAttrOnUser.resources
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.ShippingRelatedTablesAdded.resources
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.csproj.GenerateResource.Cache
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.pdb

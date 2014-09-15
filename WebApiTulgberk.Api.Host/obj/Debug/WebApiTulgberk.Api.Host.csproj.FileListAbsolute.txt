@@ -1,0 +1,106 @@
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.Host.dll.config
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.Host.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.Host.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Newtonsoft.Json.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Net.Http.Formatting.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.WebHost.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Mvc.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Optimization.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Owin.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.Integration.WebApi.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\EntityFramework.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.Owin.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Razor.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Razor.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Deployment.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Newtonsoft.Json.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Net.Http.Formatting.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.WebHost.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Mvc.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Optimization.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.Integration.WebApi.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\EntityFramework.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.Owin.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Razor.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Razor.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Deployment.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\obj\Debug\WebApiTulgberk.Api.Host.csprojResolveAssemblyReference.cache
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\obj\Debug\WebApiTulgberk.Api.Host.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\obj\Debug\WebApiTulgberk.Api.Host.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\EntityFramework.SqlServer.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Domain.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Domain.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\EntityFramework.SqlServer.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.Host.dll.config
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.Host.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.Host.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Newtonsoft.Json.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Net.Http.Formatting.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.WebHost.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Domain.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Mvc.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Optimization.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Owin.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.Integration.WebApi.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.Owin.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Razor.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Razor.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Deployment.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Api.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\WebApiTulgberk.Domain.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Newtonsoft.Json.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Net.Http.Formatting.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.WebHost.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Mvc.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Optimization.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Autofac.Integration.WebApi.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Http.Owin.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.Razor.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Razor.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\bin\System.Web.WebPages.Deployment.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\obj\Debug\WebApiTulgberk.Api.Host.csprojResolveAssemblyReference.cache
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\obj\Debug\WebApiTulgberk.Api.Host.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Host\obj\Debug\WebApiTulgberk.Api.Host.pdb

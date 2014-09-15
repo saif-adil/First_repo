@@ -1,0 +1,38 @@
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Api.Test.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Api.Test.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Moq.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Web.Http.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\xunit.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Moq.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Web.Http.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\xunit.xml
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\obj\Debug\WebApiTulgberk.Api.Test.csprojResolveAssemblyReference.cache
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\obj\Debug\WebApiTulgberk.Api.Test.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\obj\Debug\WebApiTulgberk.Api.Test.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Domain.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\EntityFramework.dll
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Domain.pdb
+C:\Users\saifkhan\Documents\Visual Studio 2013\Projects\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\EntityFramework.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\obj\Debug\WebApiTulgberk.Api.Test.csprojResolveAssemblyReference.cache
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\obj\Debug\WebApiTulgberk.Api.Test.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\obj\Debug\WebApiTulgberk.Api.Test.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Api.Test.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Api.Test.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Moq.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Newtonsoft.Json.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Web.Http.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Domain.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\xunit.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\EntityFramework.dll
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\WebApiTulgberk.Domain.pdb
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Moq.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\Newtonsoft.Json.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\System.Web.Http.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\xunit.xml
+E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Api.Test\bin\Debug\EntityFramework.xml
