@@ -6,6 +6,10 @@ using System.Linq;
 using System.Reflection;
 using System.Web;
 using System.Web.Http;
+using WebApiTulgberk.Domain;
+using System.Data.Entity;
+using WebApiTulgberk.Api.ServiceLayer;
+using WebApiTulgberk.Domain.Entities;
 
 namespace WebApiTulgberk.Api.App_Start
 {
@@ -29,6 +33,22 @@ namespace WebApiTulgberk.Api.App_Start
         {
             builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
             // registration goes here
+
+            builder.RegisterType<EntitiesContext>().As<DbContext>();
+
+            builder.RegisterGeneric(typeof(EntityRepository<>)).As(typeof( IEntityRepository<>));
+
+            builder.RegisterType<CryptoService>()
+.As<ICryptoService>();
+
+            builder.RegisterType<MembershipService>()
+            .As<IMembershipService>();
+
+            builder.RegisterType<ShipmentService>()
+            .As<IShipmentService>();
+
+            builder.RegisterType<EntitiesContext>().As<DbContext>();
+
             return builder.Build();
         }
     }

@@ -8,7 +8,7 @@ using WebApiTulgberk.Domain.Entities;
 
 namespace WebApiTulgberk.Domain
 {
-    class EntitiesContext:DbContext
+   public class EntitiesContext:DbContext
     {
 
         public EntitiesContext():base("Tulgberk")

@@ -57,12 +57,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DelegatingHandlerExtension.cs" />
+    <Compile Include="HttpsAllowedHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\WebApiTulgberk.Api\WebApiTulgberk.Api.csproj">
+      <Project>{cc8fa5c1-5c43-46f3-8927-5cd69a2f6516}</Project>
+      <Name>WebApiTulgberk.Api</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebApiTulgberk.Domain\WebApiTulgberk.Domain.csproj">
       <Project>{521b85a4-fd68-4161-825f-95d7e735e3c9}</Project>
       <Name>WebApiTulgberk.Domain</Name>
