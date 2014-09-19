@@ -13,9 +13,9 @@ namespace WebApiTulgberk.Api.Extension.Handler
     {
         protected override  Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
         {
-            if(request.RequestUri.Scheme == Uri.UriSchemeHttps)
+            if(request.RequestUri.Scheme != Uri.UriSchemeHttps)
             {
-                HttpResponseMessage response = request.CreateResponse(HttpStatusCode.NotAcceptable);
+                HttpResponseMessage response = request.CreateResponse(HttpStatusCode.Forbidden);
                 response.ReasonPhrase = "only https ";
 
               return   Task<HttpResponseMessage>.FromResult(response);

@@ -49,5 +49,16 @@ namespace WebApiTulgberk.Api.Test
             HttpStatusCode.OK,
             response.StatusCode);
         }
+
+[Fact]
+        public void GetResultThroughHttpClient()
+        {
+            HttpClient client = new HttpClient(new HttpsAllowedHandler().InnerHandler = new HttpClientHandler());
+
+            Task<HttpResponseMessage> reponse   =   client.GetAsync("https://localhost:8080");
+
+
+            Assert.Equal(HttpStatusCode.OK, reponse.Result.StatusCode);
+        }
     }
 }

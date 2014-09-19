@@ -24,6 +24,7 @@ namespace WebApiTulgberk.Api
 
            // config.Formatters.FirstOrDefault(p=>p.GetType() == );
             config.MessageHandlers.Add(new HttpsAllowedHandler());
+            config.MessageHandlers.Add(new BasicAuthenticateHandler());
             // Web API routes
             config.MapHttpAttributeRoutes();
 

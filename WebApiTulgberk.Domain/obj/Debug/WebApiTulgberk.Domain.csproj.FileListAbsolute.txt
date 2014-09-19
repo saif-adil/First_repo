@@ -24,3 +24,16 @@ E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.
 E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.csproj.GenerateResource.Cache
 E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.dll
 E:\WebApiTulgberk\WebApiTulgberk\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.pdb
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.dll.config
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.dll
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\WebApiTulgberk.Domain.pdb
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\EntityFramework.dll
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\EntityFramework.xml
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.Init.resources
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.AddValidationAttrOnUser.resources
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.Migrations.ShippingRelatedTablesAdded.resources
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.csproj.GenerateResource.Cache
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.dll
+H:\Projects\WebApi-Tulgberk\First_repo\WebApiTulgberk.Domain\obj\Debug\WebApiTulgberk.Domain.pdb
