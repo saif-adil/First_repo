@@ -35,5 +35,15 @@ namespace WebApiTulgberk.Domain
                 return (PageIndex < TotalPageCount);
             }
         }
+
+        public global::PingYourPackage.API.Model.Dtos.PaginatedDto<global::PingYourPackage.API.Model.Dtos.ShipmentDto> ToPaginatedDto(IEnumerable<TResult> enumerable)
+        {
+            throw new NotImplementedException();
+        }
+
+        public global::PingYourPackage.API.Model.Dtos.PaginatedDto<global::PingYourPackage.API.Model.Dtos.ShipmentDto> ToPaginatedDto(IEnumerable<TResult> enumerable)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

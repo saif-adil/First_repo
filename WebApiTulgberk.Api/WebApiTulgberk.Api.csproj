@@ -210,7 +210,9 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\Authorize.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ShipmentsController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Extension\Handler\BasicAuthenticationHandler.cs" />
     <Compile Include="Extension\Handler\HttpsAllowedHandler.cs" />
@@ -283,6 +285,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Shipments\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -292,6 +295,10 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\PingYourPackage.API.Model\PingYourPackage.API.Model.csproj">
+      <Project>{4a4247b1-c3d1-44da-826f-e5569eac955f}</Project>
+      <Name>PingYourPackage.API.Model</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebApiTulgberk.Domain\WebApiTulgberk.Domain.csproj">
       <Project>{521b85a4-fd68-4161-825f-95d7e735e3c9}</Project>
       <Name>WebApiTulgberk.Domain</Name>

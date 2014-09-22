@@ -49,5 +49,10 @@ namespace WebApiTulgberk.Domain.Entities
 
             ShipmentStates = new HashSet<ShipmentState>();
         }
+
+        public TResult ToShipmentDto()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
