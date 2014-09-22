@@ -1,0 +1,4 @@
+H:\Projects\WebApi-Tulgberk\First_repo\PingYourPackage.API.Model\bin\Debug\PingYourPackage.API.Model.dll
+H:\Projects\WebApi-Tulgberk\First_repo\PingYourPackage.API.Model\bin\Debug\PingYourPackage.API.Model.pdb
+H:\Projects\WebApi-Tulgberk\First_repo\PingYourPackage.API.Model\obj\Debug\PingYourPackage.API.Model.dll
+H:\Projects\WebApi-Tulgberk\First_repo\PingYourPackage.API.Model\obj\Debug\PingYourPackage.API.Model.pdb
